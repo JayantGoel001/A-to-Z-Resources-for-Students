@@ -1,10 +1,7 @@
 <h1 align="center"> A to Z Resources for Students </h1>
 
 
-If you think this repository helped you in any in finding new opportunities, tag me on Twitter at [@HQdeepak](https://twitter.com/HQdeepak) and help it reach more people in the community. 
-
-
-[Buy Me a Coffee](https://www.buymeacoffee.com/dipakkr)
+If you think this repository helped you in any in finding new opportunities, tag me on Twitter at [@JayantGoel001](https://twitter.com/JayantGoel001) and help it reach more people in the community. 
 
 ---
 
@@ -1159,11 +1156,14 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 
 ## 16. Maintainers
+
+[Jayant Goel](https://github.com/JayantGoel001)
+
 [Ayush Gupta](https://github.com/siAyush)
 
 [Deepak Kumar](https://github.com/dipakkr)
 
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/JayantGoel001)
 
-<a href="https://github.com/JayantGoel001/A-to-Z-Resources-for-Students/blob/master/LICENSE"><img src="https://img.shields.io/github/license/dipakkr/A-to-Z-Resources-for-Students"></a>
+<a href="https://github.com/JayantGoel001/A-to-Z-Resources-for-Students/blob/master/LICENSE"><img src="https://img.shields.io/github/license/JayantGoel001/A-to-Z-Resources-for-Students"></a>
 ----
