@@ -316,6 +316,10 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 	- [Bootstrap4 Documentation](https://getbootstrap.com/docs/4.1/getting-started/introduction/)
 	- [Learn Bootstrap4 | Tutlane](https://www.tutlane.com/tutorial/bootstrap)
 
+- **Bootstrap 5**
+
+    - [Bootstrap 5 Cheatsheet](https://bootstrap-cheatsheet.themeselection.com/)
+
 - **JavaScript**
     - [JS MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
     - [javascript info](https://javascript.info/)
@@ -713,7 +717,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 # 3. Student Benefits and Programs :fire:
 
 ## Campus Ambassador Programs :v:
-1. [Microsoft Student Partner](https://studentpartners.microsoft.com/en-us) - Application Deadline - **August**
+1. [Microsoft Learn Student Ambassadors](https://studentambassadors.microsoft.com/) 
 2. [GitHub Campus Experts](https://githubcampus.expert/)
 3. [College Representative  - E-Cell IITB](https://www.ecell.in/cr/)
 4. [Internshala Student Partner  -   | ISP](https://internshala.com/)
@@ -796,7 +800,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 |5| [Radare Summer of Code](https://rada.re/rsoc) | - | -  | -  |
 |6| [DataONE Summer Internship Program](https://www.dataone.org/internships) | DataONE | -  | -  | - |
 |7| [BOSS](http://pennapps.com/)| Coding Blocks, INDIA| YES |- | - |
-|8| [GirlScript Summer of Code](https://gssoc.tech/) | - | Prizes & Goodies | - | - |
+|8| [GirlScript Summer of Code](https://gssoc.girlscript.tech/#) | - | Prizes & Goodies | - | - |
 |9| [Season of KDE](https://season.kde.org) | KDE | Prizes | - | - |
 |10| [The X.Org Endless Vacation of Code](https://season.kde.org) | X.Org | Yes | -| - |
 | 11 | [Free Software Foundation internships](https://www.fsf.org/volunteer/internships) | Free Software Foundation | NO | - | - |
