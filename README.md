@@ -114,6 +114,9 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 	- [Learn Python the Hard Way](https://learnpythonthehardway.org/)
 	- [Complete Python tutorials](https://www.youtube.com/playlist?list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j)
 	- [Python Tutorial  | Tutlane](https://www.tutlane.com/tutorial/python)
+    - [Python Tutor  | For Visualization](https://pythontutor.com/visualize.html#mode=edit)
+    - [Code Combat (Python and JavaScript options)](https://codecombat.com/)
+
 
 -  **Best GitHub Repositories to follow**
      - [The Algorithms Python](https://github.com/TheAlgorithms/Python)
@@ -366,6 +369,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
         - [Complete React Tutorial (& Redux) | YouTube](https://www.youtube.com/watch?v=OxIDLw0M-m0&list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG)
         - [ReactJS Tutorial | Codecademy](https://www.codecademy.com/learn/react-101) - Interactive
         - [FreeCodeCamp Articles](https://medium.freecodecamp.org/search?q=react)
+        - [Reactstrap - React Bootstrap 4 Components](https://reactstrap.github.io/)
         - [Few Projects for every React Dev](https://daveceddia.com/react-practice-projects/)
         - [Famous GitHub Repos](https://medium.mybridge.co/react-js-open-source-for-the-past-year-2018-a7c553902010)
         - [React 16 - The Complete Guide (incl. React Router 4 & Redux)](https://www.udemy.com/react-the-complete-guide-incl-redux/) :heavy_dollar_sign: - Worth it
@@ -434,6 +438,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [AlgoDaily](https://algodaily.com/) - Daily interview questions sent by mail, as well as a full course and online IDE as well as visualizations and tutorials to solve the problems
     - [LeetCode](https://www.leetcode.com) -  Platform to prepare for technical interviews with real interview questions
     - [Sphere Online Judge](https://www.spoj.com/problems/classical/) - Great head start for learning Data Structures
+    - [Prepbytes](https://mycode.prepbytes.com/interview-coding/practice) - Prepbytes Coding Platform - Get problems as per your coding skills.
     - [UVa Online Judge](https://uva.onlinejudge.org) - The site to submit [Competitive Programming 3](http://www.lulu.com/shop/steven-halim/competitive-programming-3/paperback/product-21059906.html) data structures problems
     - [Codewars](https://www.codewars.com/) - Interesting ranking system with beautiful UI for competitive programming and interview prep.
     - [CodinGame](https://www.codingame.com/) - Competitive programming with game like challenges
@@ -452,6 +457,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Cracking the Coding Interview](http://www.crackingthecodinginterview.com/)
     - [Excercism](https://exercism.io/) - Code practice and mentorship.
     - [Leet Code](https://leetcode.com)
+    - [Data Structures and Algorithm](https://nptel.ac.in/courses/106/102/106102064/ "NPTEL")
 
 - **Books**
     - [Competitive Programming by Felix Halim and Steven Halim](https://www.comp.nus.edu.sg/~stevenha/myteaching/competitive_programming/cp1.pdf)
@@ -582,8 +588,33 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 
 ## 1.22 Full-Stack Web Development
-- [App Academy **FREE** Online Curriculum](https://open.appacademy.io/)
--[The Odin Project - Ruby & JS tracks](https://www.theodinproject.com/)
+ For Becoming a Full-Stack Web Developer you need to know about Front-End & Back-End.
+ - [How The Internet Works](https://www.youtube.com/watch?v=7_LPdttKXPc) Things Like Hosting, DNS, HTTPS, Browsers, Domain Names.
+ - [Basic Tools]() Tools Like : Text Editor (Visual Studio Code), Terminal(hyper), Design(Figma).
+ - [HTML](https://www.youtube.com/watch?v=XiQ9rjaa2Ow) Best Practices, Semantic HTML, Forms & Validations, Accessibility, SEO.
+ - [CSS](https://www.youtube.com/watch?v=Tfjd5yzCaxk) [Flexbox](https://www.youtube.com/watch?v=qqDH0T6K5gY), [CSS Grid](https://www.youtube.com/watch?v=BDOzg4lXcSg), Custom Properties,[Animations/Transitions](https://animejs.com/), Responsive Design, CSS Preprocessor, Modern CSS, CSS Frameworks [Tailwind CSS](https://tailwindcss.com/),[Bootstrap](https://getbootstrap.com/).
+ ## Front-End Starts
+ - [JavaScript](https://www.youtube.com/watch?v=jS4aFq5-91M)
+ - [TypeScript](https://www.youtube.com/watch?v=ahCwqrYpIuM)
+ - [Front-End Framework] : [React](https://www.youtube.com/watch?v=UGcALH8kPC0&list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0), [Vue](https://www.youtube.com/channel/UCxA99Yr6P_tZF9_BgtMGAWA), [Angular](https://www.youtube.com/watch?v=Fdf5aTYRW0E), [Svelte](https://www.youtube.com/watch?v=uK2RnIzrQ0M).
+ - [State Management] : [ Context API (React)](https://www.youtube.com/watch?v=35lXWvCuM8o), [Redux (React)](https://www.youtube.com/watch?v=CVpUuw9XSjY), [Vuex (Vue)](https://www.youtube.com/watch?v=oxUyIzDbZts), [Services (Angular)]().
+ - [Server Side Rendering (SSR)] : [Gatsby (React)](https://www.youtube.com/user/Weibenfalk), [Gridsome (Vue)](https://www.youtube.com/watch?v=vB6rmWCmANA), [Next.js (React)](https://www.youtube.com/channel/UC7Wpv0Aft4NPNhHWW_JC4GQ), [Nuxt.js (Vue)](https://www.youtube.com/watch?v=ltzlhAxJr74), [11ty]().
+ - [Static Site Generators] : [Next.js (React)](https://www.youtube.com/channel/UC7Wpv0Aft4NPNhHWW_JC4GQ), [Nuxt.js (Vue)](https://www.youtube.com/watch?v=ltzlhAxJr74).
+ - [Package Managers] : [NPM](), [Yarn]().
+ - [Module Bundlers] : [Webpack](), [Parcel](), [Rollup]().
+ - [Version Control] : [Git](), [GitHub]().
+ - [GraphQl](https://www.youtube.com/watch?v=ed8SzALpx1Q).
+ - [Progressive Web Apps (PWA)](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gTxqJBcDmoi5Q2pzDusSL7).
+ - [JAMstack](https://www.youtube.com/watch?v=73b1ZbmB96I)
+ - [Web Assembly](https://www.youtube.com/watch?v=cbB3QEwWMlA).
+ - [Speech Recognition](https://alan.app/).
+ ## Back-End Starts
+ - [Pick A Language] : [JavaScript (Node.js)](https://www.youtube.com/watch?v=fBNz5xF-Kx4), [JavaScript (Deno)](https://www.youtube.com/watch?v=3Vt_cjgojDI), [Python](https://www.youtube.com/user/CalebTheVideoMaker2), [Rust](https://www.youtube.com/watch?v=zF34dRivLOw), [C#](https://www.youtube.com/watch?v=GhQdlIFylQ8), [Java](https://www.youtube.com/watch?v=GoXwIVyNvX0), [PHP](https://www.youtube.com/watch?v=OK_JCtrrv-c), [Go](https://www.youtube.com/watch?v=YS4e4q9oBaU), [Ruby](https://www.youtube.com/watch?v=t_ispmWmdjY).
+ - [Back-End Frameworks] : [Laravel (PHP)](https://www.youtube.com/watch?v=MFh0Fd7BsjE), [Spring (Java)](https://www.youtube.com/watch?v=vtPkZShrvXQ), [Ruby on Rails (Ruby)](https://www.youtube.com/watch?v=B3Fbujmgo60), [Express (Node.js)](https://www.youtube.com/watch?v=L72fhGm1tfE), [Django (Python)](https://www.youtube.com/channel/UCTZRcDjjkVajGL6wd76UnGg), [Flask (Python)](https://www.youtube.com/watch?v=Z1RJmh_OqeA), [Blazor (C#)](https://www.youtube.com/channel/UCTbHPk0bIOQwTXuGgD195bw).
+ - [Databases] Types : Relational [✅  PostgreSQL](https://www.youtube.com/watch?v=qw--VYLpxG4), [MySQL](https://www.youtube.com/watch?v=9ylj9NR0Lcg), [Azure Cloud SQL](), [MS SQL]() & NoSQL / Cloud [✅ MongoDB](https://www.youtube.com/watch?v=-56x56UppqQ), [AWS](), [Airtable](https://www.youtube.com/watch?v=FEoEvSmtmPQ), [FaunaDB](https://www.youtube.com/watch?v=2CipVwISumA), [Firebase](https://www.youtube.com/watch?v=9kRgVxULbag).
+ - [APIs](https://www.youtube.com/watch?v=FLnxgSZ0DG4).
+ - [Authentication] Providers [Auth0](https://www.youtube.com/watch?v=MqczHS3Z2bc), [Firebase](https://www.youtube.com/watch?v=PKwu15ldZ7k)
+ 
 
 ## 1.23 Go Language
 - [Go,Progate](https://progate.com/languages/go)
@@ -628,6 +659,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 |26 | [Hack & Soehne](https://hackundsoehne.de/)| Germany| Yes | - | - | Several events during the year |
 |27 | [Major League Hacking](https://mlh.io/seasons/na-2019/events)| Canada, USA, Mexico | - | - | - | Many events during the year |
 |28 | [START Hack](https://starthack.ch/)| Switzerland| - | - | - | 8-10 March, 2019 |
+|29 | [Kick Start](https://codingcompetitions.withgoogle.com/kickstart/schedule)| Online| - | - | - | Multiple rounds|
 
 
 
@@ -652,6 +684,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 |13| [Quest Ingenium](https://www.questingenium.com/) | -  |
 |14| [ROBOCON](http://aburobocon2019.mnb.mn/en) | Onsite |
 |15| [Walmart-Codehers](https://dare2compete.com/o/walmart-codehers-walmart-india-pvt-ltd-167089) |Online|
+|16| [Codechef-Snackdown](https://snackdown.codechef.com/) | Online & Onsite |
 
 ##  2.3  Hackathon Search Portals :dart:
 |s.no| Name  | Location | Category |
@@ -678,7 +711,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 4. NVIDIA Developer Connect [ Global ]
 5. AWS meetups [ Global ]
 6. BrazilJS Conference [August, RS, Brazil](https://braziljs.org/conf/)
-7. Hackathon at the NS [Netherlands] https://werkenbijns.nl/hackathon/
+7. Hackathon at the NS [Netherlands](https://werkenbijns.nl/hackathon/)
 8. [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
 
 
@@ -734,6 +767,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 15. [Mozilla Student Ambassador](https://www.mozilla.org/en-US/contribute/studentambassadors/)
 16. [Frontbench Campus Ambassador](https://frontbench.xyz/campus-connect)
 17. [Codechef Campus Ambassador](https://www.codechef.com/college-chapter/about)
+18. [AWS Educate(Amazon)](https://aws.amazon.com/education/awseducate/students/ "AWS")
 
 
 ## Student Benefits and Packs :v:
@@ -752,7 +786,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 9. [Free Web Hosting for 1 year | Znetlive](https://www.znetlive.com/student-web-hosting/)
 10. [Bitbucket Education](https://bitbucket.org/product/education)
 11. [Namecheap free .name Domain](https://nc.me/)
-12. [ Autodesk Education software for students](https://www.autodesk.com/education/free-software/featured)
+12. [Autodesk Education software for students](https://www.autodesk.com/education/free-software/featured)
 13. [Invision Free app for Education](https://www.invisionapp.com/education-signup)
 14. [Canvas File Sync](https://github.com/drew-royster/canvasFileSync)
 
@@ -784,6 +818,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 13. [Adobe India Women-in-Technology Scholarship](https://research.adobe.com/adobe-india-women-in-technology-scholarship/) Application are opened in September - October every year. 
 14. [Microsoft Scholarship Program](https://careers.microsoft.com/students/us/en/usscholarshipprogram) **Applications open in October 2019!**
 15. [Udacity - Bertelsmann Technology Scholarships Program](https://www.udacity.com/bertelsmann-tech-scholarships) **Application deadline - November 16th, 2020**
+16. [ONGC Foundation](https://ongcscholar.org/) Applications open every year
 
 
 ---
@@ -805,6 +840,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 |10| [The X.Org Endless Vacation of Code](https://season.kde.org) | X.Org | Yes | -| - |
 | 11 | [Free Software Foundation internships](https://www.fsf.org/volunteer/internships) | Free Software Foundation | NO | - | - |
 |12| [Outreachy](https://www.outreachy.org/) |  | Yes | -| - |
+|13| [GSSOC(GirlScript Summer of Code)](https://gssoc.girlscript.tech/)| GirlScript Foundation | For top 50 | - | - |
 
 > **For More Open Source Competitons and Programs** - [Click Here](https://github.com/tapasweni-pathak/SOC-Programs) <br />
 
