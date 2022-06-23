@@ -114,6 +114,9 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 	- [Learn Python the Hard Way](https://learnpythonthehardway.org/)
 	- [Complete Python tutorials](https://www.youtube.com/playlist?list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j)
 	- [Python Tutorial  | Tutlane](https://www.tutlane.com/tutorial/python)
+	- [ Python  Course by IIT M | You Tube ](https://www.youtube.com/watch?v=8ndsDXohLMQ&list=PLZ2ps__7DhBb2cXAu5PevO_mzgS3Fj3Fs)
+	- [ Real Python ](https://realpython.com/)
+	- [ Finxter Learn, Train and get feedback ](https://finxter.com/)
     - [Python Tutor  | For Visualization](https://pythontutor.com/visualize.html#mode=edit)
     - [Code Combat (Python and JavaScript options)](https://codecombat.com/)
 
@@ -714,7 +717,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 6. BrazilJS Conference [August, RS, Brazil](https://braziljs.org/conf/)
 7. Hackathon at the NS [Netherlands](https://werkenbijns.nl/hackathon/)
 8. [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
-9. [Codementor Events](https://www.codementor.io/events) [ Global ]
+9. [Codementor Events](https://www.codementor.io/events)
 
 
 ## 2.5 Startup Summits, Competitions and Bootcamps :neckbeard:
