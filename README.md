@@ -119,6 +119,8 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 	- [ Finxter Learn, Train and get feedback ](https://finxter.com/)
     - [Python Tutor  | For Visualization](https://pythontutor.com/visualize.html#mode=edit)
     - [Code Combat (Python and JavaScript options)](https://codecombat.com/)
+    - [Python Interview Questions](https://www.interviewbit.com/python-interview-questions/)
+    - [Python interview questions for data analyst](https://www.interviewbit.com/data-analyst-interview-questions/)
 
 
 -  **Best GitHub Repositories to follow**
@@ -139,6 +141,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Machine Learning Crash Course | Google Developers](https://developers.google.com/machine-learning/crash-course/ml-intro)
     - [Applied Data Science with Python Specialization | Coursera](https://www.coursera.org/specializations/data-science-python) -Select individual course if it consists of multiple then click on audit below the trial/payment options
     - [Machine Learning | Kaggle](https://www.kaggle.com/learn/machine-learning)
+    - [Machine Learning Interview Questions](https://www.interviewbit.com/machine-learning-interview-questions/)
   
 
 -  **Best GitHub Repositories to follow**
@@ -253,6 +256,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [PHP Internals Book](http://www.phpinternalsbook.com/)
     - [Let's Build A Forum with Laravel and TDD](https://laracasts.com/series/lets-build-a-forum-with-laravel)
     - [SoloLearn: Learn to Code for Free!](https://www.sololearn.com/) :baby:
+    - [Learn PHP ](https://www.interviewbit.com/blog/php-developer/)
 
 - **Ruby**
     - [Ruby on Rails Tutorial](https://www.railstutorial.org/book)
@@ -312,6 +316,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [BitDegree-Learn HTML](https://bitdegree.org/learn/html-basics)
     - [BitDegree-Learn CSS](https://bitdegree.org/learn/css-basics)
     - [CSS Grid Garden Game](https://cssgridgarden.com/)
+    - [HTML & HTML5](https://www.interviewbit.com/html-interview-questions/)
 
 - **Bootstrap4**
 
@@ -354,7 +359,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [ES6 Cheatsheet](https://es6cheatsheet.com/)
     - [RegexOne | Regular Expression course](https://regexone.com/)
     - [Dmitry Soshnikov's blog | A blog about JavaScript](http://dmitrysoshnikov.com/)
-
+    - [JavaScript Interview Questions](https://www.interviewbit.com/javascript-interview-questions/)
 
 - **JavaScript Frameworks**
 
@@ -449,6 +454,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [CS50 on HarvardX](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) - One of the best computer science courses available online (:heavy_dollar_sign: for certification)
     - [Codility](https://app.codility.com/programmers/) - Develop your coding skills with lessons to take part in challenges
     - [Zen of Programming](https://zen-of-programming.com/) - A frequently updated blog great for beginners and simplified references.
+    - [Scaler Topics](https://www.scaler.com/topics/) -  Platform to access free Resouces to coding tutorials
 
 - **Tutorials & Practice**
     - [Visual Algo](https://visualgo.net/en) - Understanding DS & Algo through animations.
@@ -486,9 +492,11 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
  - [Programiz](https://www.programiz.com/c-programming)
  - [Fresh2Refresh](https://fresh2refresh.com/c-programming/)
  - [Learn C](https://www.learn-c.org/)
+ - [C Tutorial](https://www.scaler.com/topics/c)
  - [Randu](https://randu.org/tutorials/c/)
  - [W3Schools](https://www.w3schools.in/c-tutorial/)
  - [SoloLearn: Learn to Code for Free!](https://www.sololearn.com/) :baby:
+ - [C Interview Questions](https://www.interviewbit.com/c-interview-questions/)
 
 ## 1.10 C++ Language
  - [HackerRank](https://www.hackerrank.com/domains/cpp)
@@ -501,6 +509,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
  - [GeeksForGeeks](https://www.geeksforgeeks.org/c-plus-plus/)
  - [C++ For Programmers | Udacity](https://in.udacity.com/course/c-for-programmers--ud210)
  - [Software Design Using C++](https://cis.stvincent.edu/html/tutorials/swd/)
+ - [C++ Interview Questions](https://www.interviewbit.com/cpp-interview-questions/)
 
  ## 1.11 Git and Github
  - [Git Tutorials](https://www.atlassian.com/git/tutorials/comparing-workflows)
@@ -516,6 +525,8 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
  - [Git - Progate](https://progate.com/languages/git) 
  - [Intoduction to Git for DataScience](https://www.datacamp.com/courses/introduction-to-git-for-data-science)
  - [Git training](https://intellipaat.com/git-github-training/)
+ - [Git Interview Questions](https://www.interviewbit.com/git-interview-questions/)
+ - [Git vs Github](https://www.interviewbit.com/blog/git-vs-github/)
 
 
 ## 1.12 R Language
@@ -551,6 +562,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 - [MSDN C# Fundamentals for Absolute Beginners](http://channel9.msdn.com/Series/C-Fundamentals-for-Absolute-Beginners)
 - [Refactoring Guru - Design Patterns](https://refactoring.guru/pt-br/design-patterns)
 - [Learn C# | Tutlane](https://www.tutlane.com/tutorial/csharp)
+- [C# Interview Questions](https://www.interviewbit.com/c-sharp-interview-questions/)
 
 ## 1.17 DevDocs
 
@@ -562,6 +574,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 - [Free Course on Youtube](https://www.youtube.com/watch?v=h0NCZbHjIpY&list=PL9ooVrP1hQOHUKuqGuiWLQoJ-LD25KxI5) :star:
 - [Paid Docker Course on udemy](https://www.udemy.com/docker-tutorial-for-devops-run-docker-containers/) :heavy_dollar_sign:
 - [Docker Cheat Sheet](https://gist.github.com/Nairit11/59d7ef2beca03b6a770e4c278e4b4aa9)
+- [Docker-InterviewBit](https://www.interviewbit.com/docker-interview-questions/)
 
 ## 1.19 Microsoft Technologies
 
@@ -597,6 +610,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
  - [Basic Tools]() Tools Like : Text Editor (Visual Studio Code), Terminal(hyper), Design(Figma).
  - [HTML](https://www.youtube.com/watch?v=XiQ9rjaa2Ow) Best Practices, Semantic HTML, Forms & Validations, Accessibility, SEO.
  - [CSS](https://www.youtube.com/watch?v=Tfjd5yzCaxk) [Flexbox](https://www.youtube.com/watch?v=qqDH0T6K5gY), [CSS Grid](https://www.youtube.com/watch?v=BDOzg4lXcSg), Custom Properties,[Animations/Transitions](https://animejs.com/), Responsive Design, CSS Preprocessor, Modern CSS, CSS Frameworks [Tailwind CSS](https://tailwindcss.com/),[Bootstrap](https://getbootstrap.com/).
+ - [Full Stack Developer](https://www.interviewbit.com/full-stack-developer-interview-questions/)
  ## Front-End Starts
  - [JavaScript](https://www.youtube.com/watch?v=jS4aFq5-91M)
  - [TypeScript](https://www.youtube.com/watch?v=ahCwqrYpIuM)
@@ -837,16 +851,15 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 |-|--|---- |---|---| ------ |
 |1| [Google Summer of Code](https://summerofcode.withgoogle.com/)| Google| YES| - |- |
 |2| [Rails Girls Summer Of Code](https://railsgirlssummerofcode.org/)| Global | Yes|- | - |
-|4| [GNOME internships](https://wiki.gnome.org/Internships) | GNOME | YES | - | - |
-|5| [Radare Summer of Code](https://rada.re/rsoc) | - | -  | -  |
-|6| [DataONE Summer Internship Program](https://www.dataone.org/internships) | DataONE | -  | -  | - |
-|7| [BOSS](http://pennapps.com/)| Coding Blocks, INDIA| YES |- | - |
-|8| [GirlScript Summer of Code](https://gssoc.girlscript.tech/#) | - | Prizes & Goodies | - | - |
-|9| [Season of KDE](https://season.kde.org) | KDE | Prizes | - | - |
-|10| [The X.Org Endless Vacation of Code](https://season.kde.org) | X.Org | Yes | -| - |
-| 11 | [Free Software Foundation internships](https://www.fsf.org/volunteer/internships) | Free Software Foundation | NO | - | - |
-|12| [Outreachy](https://www.outreachy.org/) |  | Yes | -| - |
-|13| [GSSOC(GirlScript Summer of Code)](https://gssoc.girlscript.tech/)| GirlScript Foundation | For top 50 | - | - |
+|3| [Radare Summer of Code](https://rada.re/rsoc) | - | -  | -  |
+|4| [DataONE Summer Internship Program](https://www.dataone.org/internships) | DataONE | -  | -  | - |
+|5| [BOSS](http://pennapps.com/)| Coding Blocks, INDIA| YES |- | - |
+|6| [GirlScript Summer of Code](https://gssoc.girlscript.tech/#) | - | Prizes & Goodies | - | - |
+|7| [Season of KDE](https://season.kde.org) | KDE | Prizes | - | - |
+|8| [The X.Org Endless Vacation of Code](https://season.kde.org) | X.Org | Yes | -| - |
+|9| [Free Software Foundation internships](https://www.fsf.org/volunteer/internships) | Free Software Foundation | NO | - | - |
+|10| [Outreachy](https://www.outreachy.org/) |  | Yes | -| - |
+|11| [GSSOC(GirlScript Summer of Code)](https://gssoc.girlscript.tech/)| GirlScript Foundation | For top 50 | - | - |
 
 > **For More Open Source Competitons and Programs** - [Click Here](https://github.com/tapasweni-pathak/SOC-Programs) <br />
 
@@ -1037,6 +1050,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
       - [KD nuggets](https://www.kdnuggets.com/)
       - [Elements of AI](https://www.elementsofai.com/)
       - [Google ML Crash Course](https://developers.google.com/machine-learning/crash-course)
+      - [Data Science-InterviewBit](https://www.interviewbit.com/data-science-interview-questions/)
 
 2.   **Startup News and Stories**
       -  [YCombinator’s Hacker News](https://news.ycombinator.com/)
