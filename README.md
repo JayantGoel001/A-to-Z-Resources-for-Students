@@ -112,6 +112,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 	- [Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science)
 	- [Python 3 for humans that want practical project exposure](https://pythonprogramming.net/)
 	- [Learn Python the Hard Way](https://learnpythonthehardway.org/)
+	- [Learn Python Programming](https://www.scaler.com/topics/python/)
 	- [Complete Python tutorials](https://www.youtube.com/playlist?list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j)
 	- [Python Tutorial  | Tutlane](https://www.tutlane.com/tutorial/python)
 	- [ Python  Course by IIT M | You Tube ](https://www.youtube.com/watch?v=8ndsDXohLMQ&list=PLZ2ps__7DhBb2cXAu5PevO_mzgS3Fj3Fs)
@@ -121,6 +122,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Code Combat (Python and JavaScript options)](https://codecombat.com/)
     - [Python Interview Questions](https://www.interviewbit.com/python-interview-questions/)
     - [Python interview questions for data analyst](https://www.interviewbit.com/data-analyst-interview-questions/)
+    - [Python Cheat Sheet] (https://www.interviewbit.com/python-cheat-sheet/)
 
 
 -  **Best GitHub Repositories to follow**
@@ -317,6 +319,8 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [BitDegree-Learn CSS](https://bitdegree.org/learn/css-basics)
     - [CSS Grid Garden Game](https://cssgridgarden.com/)
     - [HTML & HTML5](https://www.interviewbit.com/html-interview-questions/)
+    - [HTML Cheat Sheet](https://www.interviewbit.com/html-cheat-sheet/)
+    - [CSS Cheat Sheet](https://www.interviewbit.com/css-cheat-sheet/)
 
 - **Bootstrap4**
 
@@ -360,6 +364,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [RegexOne | Regular Expression course](https://regexone.com/)
     - [Dmitry Soshnikov's blog | A blog about JavaScript](http://dmitrysoshnikov.com/)
     - [JavaScript Interview Questions](https://www.interviewbit.com/javascript-interview-questions/)
+    - [JavaScript CheatSheet](https://www.interviewbit.com/javascript-cheat-sheet/)
 
 - **JavaScript Frameworks**
 
@@ -788,6 +793,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 17. [Codechef Campus Ambassador](https://www.codechef.com/college-chapter/about)
 18. [AWS Educate(Amazon)](https://aws.amazon.com/education/awseducate/students/ "AWS")
 19. [Codementor for Students](https://www.codementor.io/students)
+20. [Geeksforgeeks Campus Ambassador Program](https://www.geeksforgeeks.org/campus-ambassador-program-by-geeksforgeeks/)
 
 
 ## Student Benefits and Packs :v:
