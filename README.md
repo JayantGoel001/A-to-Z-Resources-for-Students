@@ -179,6 +179,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Deep Learning Specialization | Coursera](https://www.coursera.org/specializations/deep-learning) - Select individual course if it consists of multiple then click on audit below the trial/payment options
     - [Deep Learning | Fast.AI](http://course.fast.ai/)
     - [Deep Learning | Kaggle](https://www.kaggle.com/learn/deep-learning/)
+    - [Deep Learning Interview Questions and Answers (2023)](https://www.adaface.com/blog/deep-learning-interview-questions/)
 
 -  **Best Online Books**
     - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
@@ -460,6 +461,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Codility](https://app.codility.com/programmers/) - Develop your coding skills with lessons to take part in challenges
     - [Zen of Programming](https://zen-of-programming.com/) - A frequently updated blog great for beginners and simplified references.
     - [Scaler Topics](https://www.scaler.com/topics/) -  Platform to access free Resouces to coding tutorials
+    - [ERD Lab](https://www.erdlab.io/) - Free cloud based entity relationship diagram (ERD) tool made for students.
 
 - **Tutorials & Practice**
     - [Visual Algo](https://visualgo.net/en) - Understanding DS & Algo through animations.
@@ -581,6 +583,8 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 - [Paid Docker Course on udemy](https://www.udemy.com/docker-tutorial-for-devops-run-docker-containers/) :heavy_dollar_sign:
 - [Docker Cheat Sheet](https://gist.github.com/Nairit11/59d7ef2beca03b6a770e4c278e4b4aa9)
 - [Docker-InterviewBit](https://www.interviewbit.com/docker-interview-questions/)
+- [Docker Overview](https://docs.docker.com/get-started/overview/)
+
 
 ## 1.19 Microsoft Technologies
 
