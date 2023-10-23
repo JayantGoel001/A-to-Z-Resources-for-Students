@@ -122,8 +122,9 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Code Combat (Python and JavaScript options)](https://codecombat.com/)
     - [Python Interview Questions](https://www.interviewbit.com/python-interview-questions/)
     - [Python interview questions for data analyst](https://www.interviewbit.com/data-analyst-interview-questions/)
-    - [Python Cheat Sheet] (https://www.interviewbit.com/python-cheat-sheet/)
-
+    - [Python Cheat Sheet](https://www.interviewbit.com/python-cheat-sheet/)
+    - [Python Language and Syntax Cheat Sheet](https://user-images.githubusercontent.com/84919650/227742970-7507ef1e-01fa-4e7e-a448-e0d587bb0769.png)
+    - [Python Tutorial: A Comprehensive Guide for Beginners](https://wiingy.com/learn/python/python-tutorial/)
 
 -  **Best GitHub Repositories to follow**
      - [The Algorithms Python](https://github.com/TheAlgorithms/Python)
@@ -144,6 +145,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Applied Data Science with Python Specialization | Coursera](https://www.coursera.org/specializations/data-science-python) -Select individual course if it consists of multiple then click on audit below the trial/payment options
     - [Machine Learning | Kaggle](https://www.kaggle.com/learn/machine-learning)
     - [Machine Learning Interview Questions](https://www.interviewbit.com/machine-learning-interview-questions/)
+    - [Machine Learning Tutorial | Scaler Topics](https://www.scaler.com/topics/machine-learning/)
   
 
 -  **Best GitHub Repositories to follow**
@@ -225,6 +227,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [SimpleIsBetterThanComplex Blog](https://simpleisbetterthancomplex.com/)
     - [Tango With Django Book](https://www.tangowithdjango.com/book/)
     - [Django Class-Based Views](https://ccbv.co.uk/)
+    - [Django Tutorial | Scaler Topics](https://www.scaler.com/topics/django/)
 
 -  **Flask - Python**
      - [The Flask Mega Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) :baby: + Intermediate
@@ -243,6 +246,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [What You Need To Know About Node.js](https://www.packtpub.com/free-ebooks/what-you-need-know-about-nodejs) (Email address requested, not required. By Packt)
     - [Express.js - Production Security Best Practices](https://expressjs.com/en/advanced/best-practice-security.html)
     - [Learn Node.js | Tutlane](https://www.tutlane.com/tutorial/nodejs)
+    - [Learn Node.js | Scaler Topics](https://www.scaler.com/topics/nodejs/)
 
 - **PHP**
     - [PHP Manual](http://php.net/manual/en/index.php)
@@ -287,6 +291,8 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 - [Frontend Masters](https://frontendmasters.com/) :heavy_dollar_sign:
 - [Frontend Roadmap](https://raw.githubusercontent.com/kamranahmedse/developer-roadmap/faa0ec253021944ef15fe0872673f7e42102d7e9/img/frontend.png)
+- [How to become a Frontend Developer](https://user-images.githubusercontent.com/84919650/227743259-9d38c3fa-36fe-4abb-9684-69608806e210.png)
+
 - [Frontend Mentor **FREE**](https://www.frontendmentor.io/)
 - [General Assembly Dash **FREE**](https://dash.generalassemb.ly/)
     (General Assembly Dash currently works best in Microsoft Edge as of 10-2018)
@@ -308,6 +314,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [30 Seconds of CSS](https://30-seconds.github.io/30-seconds-of-css/)
     - [CSS Grid](https://cssgrid.io/)
     - [CSS Flexbox | Wes Bos](https://flexbox.io/)
+    - [CSS Basic Cheatsheet](https://user-images.githubusercontent.com/84919650/227743321-96c328b5-1378-42b1-8613-cc0fd1e1962e.png)
     - [CSS-The Complete Guide (incl. Flexbox, Grid & Sass)](https://www.udemy.com/css-the-complete-guide-incl-flexbox-grid-sass/) (**Udemy Paid**) *Good for beginners*
     - [Advanced CSS and SASS](https://www.udemy.com/advanced-css-and-sass) - **(Udemy Paid)**
     - [flexbox cheatsheet](https://darekkay.com/dev/flexbox-cheatsheet.html)
@@ -322,6 +329,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [HTML & HTML5](https://www.interviewbit.com/html-interview-questions/)
     - [HTML Cheat Sheet](https://www.interviewbit.com/html-cheat-sheet/)
     - [CSS Cheat Sheet](https://www.interviewbit.com/css-cheat-sheet/)
+    - [Best HTML and CSS Cheat Sheets](https://cssauthor.com/html-and-css-cheat-sheets/)
 
 - **Bootstrap4**
 
@@ -336,6 +344,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
     - [Bootstrap 5 Cheatsheet](https://bootstrap-cheatsheet.themeselection.com/)
     - [Sneat Free Bootstrap 5 HTML Admin Template](https://themeselection.com/products/sneat-free-bootstrap-html-admin-template/)
+    - [Materio Free Bootstrap 5 HTML Admin Template](https://themeselection.com/item/materio-free-bootstrap-html-admin-template/)
 
 - **JavaScript**
     - [JS MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
@@ -366,6 +375,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Dmitry Soshnikov's blog | A blog about JavaScript](http://dmitrysoshnikov.com/)
     - [JavaScript Interview Questions](https://www.interviewbit.com/javascript-interview-questions/)
     - [JavaScript CheatSheet](https://www.interviewbit.com/javascript-cheat-sheet/)
+    - [JavaScript Tutorial | Scaler Topics](https://www.scaler.com/topics/javascript/)
 
 - **JavaScript Frameworks**
 
@@ -535,6 +545,9 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
  - [Git training](https://intellipaat.com/git-github-training/)
  - [Git Interview Questions](https://www.interviewbit.com/git-interview-questions/)
  - [Git vs Github](https://www.interviewbit.com/blog/git-vs-github/)
+ - [Git Tutorial | Scaler Topics](https://www.scaler.com/topics/git/)
+ - [An Introduction to Github](https://www.scaler.com/topics/what-is-github/)
+ - [Git Vs Github by Scaler Topics](https://www.scaler.com/topics/git-vs-github/)
 
 
 ## 1.12 R Language
@@ -584,6 +597,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 - [Docker Cheat Sheet](https://gist.github.com/Nairit11/59d7ef2beca03b6a770e4c278e4b4aa9)
 - [Docker-InterviewBit](https://www.interviewbit.com/docker-interview-questions/)
 - [Docker Overview](https://docs.docker.com/get-started/overview/)
+- [Docker Tutorial for Beginners – Introduction & Getting Started](https://spacelift.io/blog/docker-tutorial)
 
 
 ## 1.19 Microsoft Technologies
@@ -639,7 +653,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
  ## Back-End Starts
  - [Pick A Language] : [JavaScript (Node.js)](https://www.youtube.com/watch?v=fBNz5xF-Kx4), [JavaScript (Deno)](https://www.youtube.com/watch?v=3Vt_cjgojDI), [Python](https://www.youtube.com/user/CalebTheVideoMaker2), [Rust](https://www.youtube.com/watch?v=zF34dRivLOw), [C#](https://www.youtube.com/watch?v=GhQdlIFylQ8), [Java](https://www.youtube.com/watch?v=GoXwIVyNvX0), [PHP](https://www.youtube.com/watch?v=OK_JCtrrv-c), [Go](https://www.youtube.com/watch?v=YS4e4q9oBaU), [Ruby](https://www.youtube.com/watch?v=t_ispmWmdjY).
  - [Back-End Frameworks] : [Laravel (PHP)](https://www.youtube.com/watch?v=MFh0Fd7BsjE), [Spring (Java)](https://www.youtube.com/watch?v=vtPkZShrvXQ), [Ruby on Rails (Ruby)](https://www.youtube.com/watch?v=B3Fbujmgo60), [Express (Node.js)](https://www.youtube.com/watch?v=L72fhGm1tfE), [Django (Python)](https://www.youtube.com/channel/UCTZRcDjjkVajGL6wd76UnGg), [Flask (Python)](https://www.youtube.com/watch?v=Z1RJmh_OqeA), [Blazor (C#)](https://www.youtube.com/channel/UCTbHPk0bIOQwTXuGgD195bw).
- - [Databases] Types : Relational [✅  PostgreSQL](https://www.youtube.com/watch?v=qw--VYLpxG4), [MySQL](https://www.youtube.com/watch?v=9ylj9NR0Lcg), [Azure Cloud SQL](), [MS SQL]() & NoSQL / Cloud [✅ MongoDB](https://www.youtube.com/watch?v=-56x56UppqQ), [AWS](), [Airtable](https://www.youtube.com/watch?v=FEoEvSmtmPQ), [FaunaDB](https://www.youtube.com/watch?v=2CipVwISumA), [Firebase](https://www.youtube.com/watch?v=9kRgVxULbag).
+ - [Databases] Types : Relational [✅  PostgreSQL](https://www.youtube.com/watch?v=qw--VYLpxG4), [MySQL](https://www.youtube.com/watch?v=9ylj9NR0Lcg), [Azure Cloud SQL](), [MS SQL]() & NoSQL / Cloud [✅ MongoDB](https://www.youtube.com/watch?v=-56x56UppqQ), [AWS](), [Airtable](https://www.youtube.com/watch?v=FEoEvSmtmPQ), [FaunaDB](https://www.youtube.com/watch?v=2CipVwISumA), [Firebase](https://www.youtube.com/watch?v=9kRgVxULbag), [HarperDB](https://www.youtube.com/watch?v=fAKZxK-XamM)
  - [APIs](https://www.youtube.com/watch?v=FLnxgSZ0DG4).
  - [Authentication] Providers [Auth0](https://www.youtube.com/watch?v=MqczHS3Z2bc), [Firebase](https://www.youtube.com/watch?v=PKwu15ldZ7k)
  
