@@ -425,6 +425,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
         - [Getting started with VueJS 2](https://www.youtube.com/watch?v=nyJSd6V2DRI)
         - [Vue.js News](https://news.vuejs.org/)
         - [Vue.js Showcase - Made With Vue.js](https://madewithvuejs.com/)
+        - [Materio Free VueJS Admin Template](https://themeselection.com/item/materio-free-vuetify-vuejs-admin-template/)
 
     - **Web Accessibility**
         - [Accessibility MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/Accessibility)
@@ -623,6 +624,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 ## 1.22 MATLAB/Octave
 
+- [MATLAB Student Resources](https://github.com/mathworks/awesome-matlab-students)
 - [MATLAB Academy](https://matlabacademy.mathworks.com/)
 - [Octave Tutorial](https://en.wikibooks.org/wiki/Octave_Programming_Tutorial/)
 - [Beginners MATLAB edX](https://www.edx.org/course/matlab-octave-beginners-epflx-matlabeoctavebeginnersx)
@@ -813,6 +815,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 18. [AWS Educate(Amazon)](https://aws.amazon.com/education/awseducate/students/ "AWS")
 19. [Codementor for Students](https://www.codementor.io/students)
 20. [Geeksforgeeks Campus Ambassador Program](https://www.geeksforgeeks.org/campus-ambassador-program-by-geeksforgeeks/)
+21. [MATLAB Student Ambassador Program](https://www.mathworks.com/academia/students/student-ambassadors.html)
 
 
 ## Student Benefits and Packs :v:
@@ -1086,6 +1089,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
       -  [The Hustle](https://thehustle.co/)
 3.  **Computer science in general**
       -  [All about computer science](https://www.computerscience.org/)
+      -  [CompSciLib - 24/7 CS & Math Tutor](https://www.compscilib.com/)
 
 # 11. Top 50 YouTube Channels to Follow
 
